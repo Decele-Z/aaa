@@ -40,7 +40,11 @@
         <entry file="file://$PROJECT_DIR$/index.ios.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
+<<<<<<< HEAD
               <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+=======
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+>>>>>>> 88bac1bd008a04b67b8f6308a377e3f52e86a310
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#89#130#0" expanded="true" />
@@ -153,14 +157,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1486555983154</updated>
+<<<<<<< HEAD
       <workItem from="1486555985231" duration="29000" />
       <workItem from="1486556578388" duration="90000" />
       <workItem from="1486556836948" duration="11000" />
+=======
+      <workItem from="1486555985231" duration="178000" />
+      <workItem from="1486556681821" duration="54000" />
+>>>>>>> 88bac1bd008a04b67b8f6308a377e3f52e86a310
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="130000" />
+=======
+    <option name="totallyTimeSpent" value="232000" />
+>>>>>>> 88bac1bd008a04b67b8f6308a377e3f52e86a310
   </component>
   <component name="ToolWindowManager">
     <frame x="348" y="27" width="1420" height="987" extended-state="1" />
@@ -204,6 +217,14 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
@@ -211,6 +232,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.ios.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
@@ -240,6 +262,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+=======
+        <state relative-caret-position="286">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+>>>>>>> 88bac1bd008a04b67b8f6308a377e3f52e86a310
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#89#130#0" expanded="true" />

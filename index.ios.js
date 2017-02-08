@@ -11,7 +11,9 @@ import {
   Text,
   View
 } from 'react-native';
+
 var my = 'bibibi';
+
 var Main = require("./component/Main");//引入外部自定义组件
 
 export default class DouBanDemo extends Component {
